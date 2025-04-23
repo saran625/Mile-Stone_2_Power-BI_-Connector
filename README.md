@@ -1,1 +1,1 @@
-# Mile-Stone_2_Power-BI_-Connector
+# Mile-Stone_2_Power BI_Connector
